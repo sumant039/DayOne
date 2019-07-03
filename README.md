@@ -1,2 +1,3 @@
 # DayOne
-DayOneCode
+Document!
+Using  Literals like ,int ,String ,booleans,Numerices
